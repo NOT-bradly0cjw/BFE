@@ -1,27 +1,26 @@
 # BFE Reborn
-Banned Form Equestria Daily Reborn
+English Document|[中文文檔](https://github.com/NOT-bradly0cjw/BFE/blob/main/README.md)<br>
+Banned Form Equestria Daily Reborn<br>
+The following document will use "BFE" to refer to "Banned Form Equestria".
 
-# Why this project exits?
-Due to original BFE android port only support up to android 7<br>
-I decide to migrate this project to support new devices<br>
-Current Target API:`Android 12(31)`<br>
-Minium API:`Android 5 aka Lolipop(21)`<br>
+# Why doese this project exist?
+The original BFE Android port only supports up to Android 7.<br>
+Because of this, I decided to migrate the project to support new devices. <br>
+> **Note**<br>
+> Current Target API:`Android 12(31)`<br>
+> Minimum API:`Android 5 aka Lolipop(21)`<br>
 
-# Where is the download link ? I need it for education purpose 
+# Where is the download link? I need it for educational purposes. 
 ---
-:warning: This project only above Android 5 <br>
-If your device is lower than this version. It's time to chage your device
+> **Warning** <br>
+> This project only support Android 5 and above.<br>
+> If your device has a lower version, it's time to change your device.
 ---
-[here](https://github.com/bradly0cjw/BFE/releases/tag/1.6) is you download link you such a horny person<br>
-Recommend use arm-v8 variant<br>
-if you can't install arm-v8 variant 
-use arm-v7 variant instead(Cause its better compatibility)<br>
-Almost every mobile manufacture after 2011 support arm-v7<br>
-
-
-
+[here](https://github.com/bradly0cjw/BFE/releases/latest) is your download link, you such a horny person<br>
+I recommend using the arm-v8 variant<br>
+If you can't install the arm-v8 variant, the use arm-v7 variant instead because it has better compatibility.<br>
+Almost all devices manufactured after 2011 support arm-7.<br>
 
 # Disclaimer
-
-All credit and reight belongs to creator and translator of Banned From Equestia Daily<br>
+All credit and rights belong to creator and translator of Banned From Equestia Daily.<br>
 I don't own anything
