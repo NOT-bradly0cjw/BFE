@@ -10,7 +10,7 @@ Minium API:`Android 5 aka Lolipop(21)`<br>
 # Where is the download link ? I need it for education purpous 
 ---
 :warning: This project only above Android 5 <br>
-If your divices is lower than this version. It's time to chage your device
+If your device is lower than this version. It's time to chage your device
 ---
 [here](https://github.com/bradly0cjw/BFE/releases/tag/1.6) is you download link you such a horny person<br>
 Recommend use arm-v8 variant<br>
