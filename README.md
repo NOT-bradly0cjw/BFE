@@ -7,7 +7,7 @@ I decide to migrate this project to support new devices<br>
 Current Target API:`Android 12(31)`<br>
 Minium API:`Android 5 aka Lolipop(21)`<br>
 
-# Where is the download link ? I need it for education purpous 
+# Where is the download link ? I need it for education purpose 
 ---
 :warning: This project only above Android 5 <br>
 If your device is lower than this version. It's time to chage your device
