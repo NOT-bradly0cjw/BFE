@@ -1,5 +1,5 @@
 # BFE Reborn
-English Document|[中文文檔](https://github.com/NOT-bradly0cjw/BFE/blob/main/README.md)<br>
+English Document|[中文文檔](https://github.com/NOT-bradly0cjw/BFE/blob/main/zh.md)<br>
 Banned Form Equestria Daily Reborn<br>
 The following document will use "BFE" to refer to "Banned Form Equestria".
 
